@@ -20,7 +20,7 @@ public class game_Over : MonoBehaviour
        
     } public void main_menu()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-1);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
        
 
     }
